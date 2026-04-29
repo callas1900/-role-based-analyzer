@@ -16,6 +16,19 @@ After the interview, the skill writes a single structured markdown report captur
 
 ## Installation
 
+### Option 1: Simple — copy `SKILL.md` into your skills directory
+
+Drop the skill file into `~/.claude/skills/role-based-analyzer/`:
+
+```sh
+mkdir -p ~/.claude/skills/role-based-analyzer
+cp /path/to/role-based-analyzer/skills/role-based-analyzer/SKILL.md ~/.claude/skills/role-based-analyzer/
+```
+
+The skill becomes available immediately in any Claude Code session.
+
+### Option 2: Install as a plugin
+
 Run these two commands inside a Claude Code session (replace the path with your actual checkout location):
 
 ```text
