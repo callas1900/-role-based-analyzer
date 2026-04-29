@@ -123,7 +123,7 @@ Then write a single markdown file with this structure:
 - **Format:** <digital / physical / either>
 - **Description:** <brief description>
 - **Parts:**
-  - `Artifact::part` — <part name and brief description>
+  - <part name and brief description>
   - ...
 
 ---
@@ -137,7 +137,7 @@ Then write a single markdown file with this structure:
   - ...
 - **Participants:** <criteria for who should attend>
 - **Agenda items:**
-  - `Meeting::agenda-item` — <step description>
+  - <step description>
   - ...
 - **Output documents:**
   - <deliverable produced>
