@@ -1,0 +1,8 @@
+{
+  "name": "role-based-analyzer",
+  "version": "0.1.0",
+  "description": "Interview-driven analysis of a business field's current structure across Role, Artifacts, and Meetings — a precondition for process improvement.",
+  "author": {
+    "name": "callas1900"
+  }
+}

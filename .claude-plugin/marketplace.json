@@ -1,0 +1,13 @@
+{
+  "name": "role-based-analyzer-local",
+  "owner": {
+    "name": "callas1900"
+  },
+  "plugins": [
+    {
+      "name": "role-based-analyzer",
+      "source": ".",
+      "description": "Interview-driven analysis of a business field's current structure across Role, Artifacts, and Meetings."
+    }
+  ]
+}
